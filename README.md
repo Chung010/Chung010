@@ -15,7 +15,7 @@
 
 ### 🛠 Skills
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chung010&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,css,react,vue,docker,figma&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chung010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chung010&theme=tokyonight)
 ---
 
 <img src="https://drive.google.com/thumbnail?id=1nhACxrRsGymxQV1R0HAadwQIcDpoAdhz&sz=w1200" alt="banner" high="50%" width="100%" style="border-radius:8px;" />
