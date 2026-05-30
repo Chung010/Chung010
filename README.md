@@ -1,25 +1,25 @@
-### 👋 สวัสดี ฉันชื่อ เปา (Pao Bunyaphon)
+# 👋 สวัสดีครับผม เปา (Pao Bunyaphon)
 
 **Mobile Developer · Web Developer · Application Developer · Cybersecurity**
 
-🎓 นักศึกษา CS ที่ชอบสร้างของมากกว่าแค่คิด
+🎓 นักศึกษา CS(วิทยาการคอมพิวเตอร์) : มหาวิทยาลัยสงขลานครินทร์ 
 🎨 หลงใหลใน UI ที่สวยงาม ตั้งแต่ออกแบบใน Figma จนถึง deploy จริง
-⚡ เขียนได้ทั้ง Frontend ที่สวยงาม และ Backend ที่แข็งแกร่ง
+⚡ เขียนได้ทั้ง Frontend และ Backend 
 🔐 สนใจ Cybersecurity และชอบเข้าใจว่าสิ่งต่างๆ "ทำงานยังไง" ลึกๆ
-🚀 กำลังสร้าง Portfolio Project ของตัวเอง — ทีละ commit
+🚀 กำลังศึกษาอยู่ในชั้นปี 4 และกำลังเรียนรู้การทำเว็บที่ดูดีและปลอดภัย
 
 ถ้าไม่ได้เขียนโค้ด ก็คงกำลัง redesign UI ในหัว
 หรือ debug โค้ดด้วย `console.log` อยู่อย่างภาคภูมิใจ 😄
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,css,react,vue,docker,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,js,ts,py,java,c,css,react,vue,docker,figma&perline=10)](https://skillicons.dev)
 
 ---
 
-### 📌 About Me
+## 📌 About Me
 
 - 📍 Based in Songkhla, Thailand
 - 🔭 Currently working on my personal Portfolio
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Most Used Languages
+## 📊 Most Used Languages
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chung010&theme=tokyonight)
 ---
