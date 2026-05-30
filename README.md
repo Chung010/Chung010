@@ -32,7 +32,6 @@
 ### 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chung010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ---
 
-<img src="https://drive.google.com/thumbnail?id=1nhACxrRsGymxQV1R0HAadwQIcDpoAdhz&sz=w1200" alt="banner" width="100%" style="border-radius:8px;" />
+<img src="https://drive.google.com/thumbnail?id=1nhACxrRsGymxQV1R0HAadwQIcDpoAdhz&sz=w1200" alt="banner" high="50%" width="100%" style="border-radius:8px;" />
