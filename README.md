@@ -15,7 +15,7 @@
 
 ### 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,css,react,vue,docker,figma&perline=10)](https://skillicons.dev)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chung010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
