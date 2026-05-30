@@ -15,7 +15,7 @@
 
 ### 🛠 Skills
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chung010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chung010&theme=tokyonight)
 
 ---
 
