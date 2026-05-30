@@ -34,4 +34,4 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chung010&theme=tokyonight)
 ---
 
-<img src="https://drive.google.com/thumbnail?id=1nhACxrRsGymxQV1R0HAadwQIcDpoAdhz&sz=w1200" alt="banner" high="50%" width="100%" style="border-radius:8px;" />
+<img src="https://drive.google.com/thumbnail?id=1nhACxrRsGymxQV1R0HAadwQIcDpoAdhz&sz=w1200" alt="banner" width="100%" height="400px" style="object-fit:cover; object-position:center bottom;" />
