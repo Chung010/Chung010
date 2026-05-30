@@ -31,7 +31,7 @@
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banyaphonjan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chung010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
