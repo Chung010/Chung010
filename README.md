@@ -31,7 +31,7 @@
 
 ### discuss Me
 
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/peapea.salapea.460246?locale=th_TH)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/peapea.salapea.460246)
 - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1299352682666004482)
 
 ## 📊 Most Used Languages
